@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1330763825.svg)](https://doi.org/10.5281/zenodo.21887510)
+
 # Multimodal NLP Framework for Automated Psychometric Assessment in Collaborative Learning
 
 This repository provides a complete **Python/PyTorch implementation** of a multimodal deep learning framework for automated psychometric assessment in collaborative learning environments.
