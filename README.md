@@ -1,4 +1,4 @@
-10.5281/zenodo.21887511
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.21887511-blue.svg)](https://doi.org/10.5281/zenodo.21887511)
 
 # Multimodal NLP Framework for Automated Psychometric Assessment in Collaborative Learning
 
