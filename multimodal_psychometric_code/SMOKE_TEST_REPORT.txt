@@ -1,0 +1,8 @@
+Smoke-test status: PASSED
+
+Verified executions in the build environment:
+1) quick mode, proposed model only: passed end-to-end.
+2) quick mode, proposed + five baselines: passed end-to-end.
+3) quick mode, proposed + stability sensitivity: passed end-to-end.
+
+The full 120-session paper-scale experiment was not executed during packaging because it is intentionally computationally intensive; its code path uses the same verified components with paper-scale configuration.
